@@ -1,2 +1,3 @@
-# Pickle_Game
-프로그래밍 패턴 강의
+# 유한대학교 VR게임앱학과 Programming Pattern
+* 202127056
+* 선유정
